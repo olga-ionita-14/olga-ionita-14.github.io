@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 - [2023 Tree](#2023-tree)
 - [2023 Sunrise](#2023-sunrise)
@@ -10,6 +10,10 @@
 
 
 <!-- my work -->
+
+## About Me
+
+Hello! I am Olga and I like to paint and draw many things.
 
 
 ### 2023 Tree
