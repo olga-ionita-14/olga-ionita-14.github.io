@@ -7,6 +7,7 @@
 - [2023 Red Sun](#2023-red-sun)
 - [2023 Fir Trees](#2023-fir-trees)
 - [2025 Flower Pot](#2025-flower-pot)
+- [2025 Mimes](#2025-mimes)
 
 
 <!-- my work -->
@@ -62,3 +63,10 @@ At the age of 8 years.
 At the age of 10 years.
 
 ![Flower Pot](2025_01_19_flower_pot.jpg "Flower Pot")
+
+### 2025 Mimes
+
+At the age of 10 years.
+
+![Mimes](none.jpg "Mimes")
+
