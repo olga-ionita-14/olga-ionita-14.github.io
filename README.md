@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hello! I am Olga and I like to paint and draw many things.
+Hello! I am **Olga** and I like to paint and draw many things.
 
 
 ### 2023 Tree
