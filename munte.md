@@ -214,7 +214,11 @@ Intre Saua Diham si cabana Diham si apoi la Pichetul Rosu.
 
 ## 2025 May 3 - La Stejar, Poiana Marului - Fereastra Holbavului
 
-> Apple Glade - [La Stejar](https://maps.app.goo.gl/mNpfFRsHbYqR3R9k6) - [Fereastra Holbavului](https://maps.app.goo.gl/yhjMr4d1NrLqiADG7)
+> Apple Glade - [La Stejar](https://maps.app.goo.gl/mNpfFRsHbYqR3R9k6) - [Fereastra Holbavului](https://maps.app.goo.gl/yhjMr4d1NrLqiADG7) - [Podu Ilii](https://maps.app.goo.gl/rXFNvo8aSPgsNZad9)
+
+[<img src="./2025_05_03_p3.jpg" height="400"/>](./2025_05_03_p3.jpg)
+[<img src="./2025_05_03_p2.jpg" height="400"/>](./2025_05_03_p2.jpg)
+[<img src="./2025_05_03_p1.jpg" height="400"/>](./2025_05_03_p1.jpg)
 
 
 ## 2025 Jun 7 - Piatra Craiului, Curmatura Groapelor
@@ -223,11 +227,11 @@ Intre Saua Diham si cabana Diham si apoi la Pichetul Rosu.
 
 Anul acesta nu am facut roata!
 
-[<img src="./2025_06_07_p1.jpg" width="400"/>](./2025_06_07_p1.jpg)
+[<img src="./2025_06_07_p1.jpg" height="400"/>](./2025_06_07_p1.jpg)
 
 
 ## 2025 Jun 8 - Piatra Craiului, Garofita Pietrei Craiului
 
-> Hidrocentrala Clabucet (Saticu de Sus) - Garofita Pietrei Craiului - Hidrocentrala Clabucet (Saticu de Sus)
+> [Hidrocentrala Clabucet](https://maps.app.goo.gl/TPKRA4Q7HZyoutbu5) (Saticu de Sus) - [Garofita Pietrei Craiului](https://maps.app.goo.gl/iKwivcPaPFoseDxa8) - Hidrocentrala Clabucet
 
-[<img src="./2025_06_08_p1.jpg" width="400"/>](./2025_06_08_p1.jpg)
+[<img src="./2025_06_08_p1.jpg" height="400"/>](./2025_06_08_p1.jpg)
