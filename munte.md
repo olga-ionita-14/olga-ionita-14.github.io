@@ -9,6 +9,7 @@ filename: munte.md
 <!-- TOC -->
 * [Excursii la munte Olga](#excursii-la-munte-olga)
   * [2022 Apr 25 - Tara Luanei, Poiana Cozanei](#2022-apr-25---tara-luanei-poiana-cozanei)
+  * [2022 Aug 14 - Ochiul Beiului, Cheile Nerei](#2022-aug-14---ochiul-beiului-cheile-nerei)
   * [2022 Aug 16 - Dubova, Ciucarul Mare](#2022-aug-16---dubova-ciucarul-mare)
   * [2022 Oct 27 - Piatra Craiului, Curmatura Groapelor](#2022-oct-27---piatra-craiului-curmatura-groapelor)
   * [2023 Jan 21-22 - Baiului, Girbova](#2023-jan-21-22---baiului-girbova)
@@ -35,14 +36,20 @@ filename: munte.md
 [<img src="./2022_04_25_p2.jpg" width="400"/>](./2022_04_25_p2.jpg)
 
 
+## 2022 Aug 14 - Ochiul Beiului, Cheile Nerei
+
+> Sasca Montana - Ochiul Beiului - Sasca Montana
+
+[<img src="./2022_08_16_p2.jpg" width="400"/>](./2022_08_16_p2.jpg)
+
+
 ## 2022 Aug 16 - Dubova, Ciucarul Mare
 
 > DN57 - Ciucarul Mare - DN57
 
-Atentie la viperele cu clopotei!
+Atentie la vipere!
 
 [<img src="./2022_08_16_p1.jpg" width="400"/>](./2022_08_16_p1.jpg)
-[<img src="./2022_08_16_p2.jpg" width="400"/>](./2022_08_16_p2.jpg)
 
 
 ## 2022 Oct 27 - Piatra Craiului, Curmatura Groapelor
