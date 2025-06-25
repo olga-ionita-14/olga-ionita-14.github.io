@@ -8,6 +8,8 @@
 - [2023 Fir Trees](#2023-fir-trees)
 - [2025 Flower Pot](#2025-flower-pot)
 - [2025 Mimes](#2025-mimes)
+- [2025 Fir Trees](#2025-fir-trees)
+- [2025 Lake and Trees](#2025-lake-and-trees)
 
 
 <!-- my work -->
@@ -15,6 +17,8 @@
 ## About Me
 
 Hello! I am **Olga** and I like to paint and draw many things.
+
+Here is my [mountain trips page](munte.md)
 
 
 ### 2023 Tree
@@ -64,9 +68,23 @@ At the age of 10 years.
 
 ![Flower Pot](2025_01_19_flower_pot.jpg "Flower Pot")
 
+
 ### 2025 Mimes
 
 At the age of 10 years.
 
 ![Mimes](none.jpg "Mimes")
 
+
+### 2025 Fir Trees
+
+At the age of 10 years.
+
+![Fir Trees](2025_06__fir_trees.jpg "Fir Trees")
+
+
+### 2025 Lake and Trees
+
+At the age of 10 years.
+
+![Lake and Trees](2025_06__lake_trees.jpg "Lake and Trees")
