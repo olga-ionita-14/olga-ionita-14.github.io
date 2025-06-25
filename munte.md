@@ -25,6 +25,8 @@ filename: munte.md
   * [2025 Feb 18 - Bucegi, Diham - Pichetul Rosu](#2025-feb-18---bucegi-diham---pichetul-rosu)
   * [2025 May 2 - Poiana Viselor, Poiana Marului](#2025-may-2---poiana-viselor-poiana-marului)
   * [2025 May 3 - La Stejar, Poiana Marului - Fereastra Holbavului](#2025-may-3---la-stejar-poiana-marului---fereastra-holbavului)
+  * [2025 Jun 7 - Piatra Craiului, Curmatura Groapelor](#2025-jun-7---piatra-craiului-curmatura-groapelor)
+  * [2025 Jun 8 - Piatra Craiului, Garofita Pietrei Craiului](#2025-jun-8---piatra-craiului-garofita-pietrei-craiului)
 <!-- TOC -->
 
 
@@ -215,5 +217,17 @@ Intre Saua Diham si cabana Diham si apoi la Pichetul Rosu.
 > Apple Glade - [La Stejar](https://maps.app.goo.gl/mNpfFRsHbYqR3R9k6) - [Fereastra Holbavului](https://maps.app.goo.gl/yhjMr4d1NrLqiADG7)
 
 
+## 2025 Jun 7 - Piatra Craiului, Curmatura Groapelor
+
+> Sirnea - Curmatura Groapelor - Sirnea
+
+Anul acesta nu am facut roata!
+
+[<img src="./2025_06_07_p1.jpg" width="400"/>](./2025_06_07_p1.jpg)
 
 
+## 2025 Jun 8 - Piatra Craiului, Garofita Pietrei Craiului
+
+> Hidrocentrala Clabucet (Saticu de Sus) - Garofita Pietrei Craiului - Hidrocentrala Clabucet (Saticu de Sus)
+
+[<img src="./2025_06_08_p1.jpg" width="400"/>](./2025_06_08_p1.jpg)
