@@ -103,7 +103,7 @@ De la cabana Negoiu, pe poteca triunghi albastru, pe Podetele Zmeilor, se ajunge
 [<img src="./2024_08_02_p1.jpg" height="400"/>](./2024_08_02_p1.jpg)
 
 
-Iesind din padure, intalnim zona de jnepenis si apoi pajiste alpina, cum intram in vale. In vale se ajunge la cascada Saratii care cade de mai sus printre stanci.
+Din padure se vede celelalt versant care margineste valea.
 
 [<img src="./2024_08_02_p2.jpg" height="400"/>](./2024_08_02_p2.jpg)
 
